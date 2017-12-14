@@ -1,0 +1,7 @@
+
+cassandra:
+  contactpoints: 127.0.0.1
+  port: 9042
+  keyspace.a: myFirstKeyspace
+  keyspace.b: mySecondKeyspace
+  entitypackage: br.com.cassandra.model.person
